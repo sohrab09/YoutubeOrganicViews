@@ -1,0 +1,29 @@
+.heading {
+    color: #cb301e;
+    font-family: "Nunito",Sans-serif;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.subHeading {
+    color: #828282;
+    font-size: 18px;
+    margin-top: 20px;
+}
+
+.serviceImg {
+    border-style: solid;
+    border-width: 8px;
+    border-radius: 90px;
+    cursor: pointer;
+    transition: 0.5s;
+}
+
+.serviceImg:hover {
+    border-style: solid;
+    border: 8px solid rgb(66, 66, 66);
+}
+
+.icon {
+    font-size: 50px;
+}

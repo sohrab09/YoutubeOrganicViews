@@ -1,0 +1,8 @@
+.slick-prev:before, .slick-next:before {
+    font-size: 30px;
+    line-height: 2;
+    opacity: 1;
+    color: rgb(112, 112, 112);
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}

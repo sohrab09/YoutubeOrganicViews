@@ -1,0 +1,27 @@
+.supportBG {
+    background-color: transparent;
+    background-image: linear-gradient(320deg,#5a9ada 0%,#f129f2 100%);
+    box-shadow: 0px 0px 10px 0px rgb(0 0 0 / 50%);
+    transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;
+    border-radius: 20px;
+}
+
+.contactButton {
+    border: none;
+    background-color: #1ED760;
+    border-radius: 50px;
+    transition: .5s ease-out;
+    font-family: "Nunito",Sans-serif;
+    font-size: 25px;
+    font-weight: 700;
+    text-shadow: 0px 0px 10px rgb(0 0 0 / 30%);
+    fill: #fff;
+    padding: 15px 35px;
+}
+.contactBTN {
+    color: white;
+}
+.contactButton:hover {
+    background-color: #fff;
+    color: rgb(0, 0, 0);
+}

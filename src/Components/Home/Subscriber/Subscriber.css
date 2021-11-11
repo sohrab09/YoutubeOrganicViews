@@ -1,0 +1,27 @@
+.subsHeading {
+    color: #326699;
+    font-size: 30px;
+}
+
+.subImage {
+    height: 300px;
+    max-height: 300px;
+}
+
+.subButton {
+    font-weight: bold;
+    margin-top: 10px;
+    background-color: #2CAAE1;
+    color: #FFFFFF;
+    width: 220px;
+    height: 18%;
+    border-radius: 90px;
+    border: none;
+    transition: 0.5s;
+}
+
+.subButton:hover {
+    background-color: #FFFFFF;
+    color: black;
+    border: 1px solid #2CAAE1;
+}

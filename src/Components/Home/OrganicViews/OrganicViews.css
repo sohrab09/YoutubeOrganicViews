@@ -1,0 +1,26 @@
+.viewsHeading {
+    color: #16518B;
+}
+
+.viewImage {
+    height: 300px;
+    max-height: 300px;
+}
+
+.buyButton {
+    font-weight: bold;
+    margin-top: 10px;
+    background-color: #CB301E;
+    color: #FFFFFF;
+    width: 220px;
+    height: 18%;
+    border-radius: 90px;
+    border: none;
+    transition: 0.5s;
+}
+
+.buyButton:hover {
+    background-color: #FFFFFF;
+    color: black;
+    border: 1px solid #CB301E;
+}
